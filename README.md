@@ -11,8 +11,7 @@ This project will use YouTube API to pull data from Taylor Swift songs and video
 - Duplicate the data we got into Microsoft Excel to clean it
 - Use PostgreSQL to collect the data needed for visualization: top songs with the highest view count
 - Utilize Tableau to visualize song trends and the relationships between the number of view counts and the number of like counts or comment counts
-
-## [Tableau Public Visualization](https://public.tableau.com/views/youtubeAPI/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Tableau Public Visualization](https://public.tableau.com/views/youtubeAPI/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## 3. Key takeaways:
 - The number of videos uploaded to Taylor Swift channel fluctuates over the years from 2008 to 2023 with the highest number of videos in 2021.
